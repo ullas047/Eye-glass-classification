@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+   Rectangle       0.98      0.98      0.98        61
+       Round       0.85      1.00      0.92        57
+     cat-eye       0.96      0.91      0.94        58
+        oval       0.98      0.87      0.92        62
+
+    accuracy                           0.94       238
+   macro avg       0.94      0.94      0.94       238
+weighted avg       0.95      0.94      0.94       238
